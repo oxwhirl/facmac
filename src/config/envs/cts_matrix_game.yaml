@@ -1,0 +1,7 @@
+env: "cts_matrix_game"
+
+t_max: 200000
+test_interval: 2000
+runner_log_interval: 2000
+learner_log_interval: 2000
+log_interval: 2000
